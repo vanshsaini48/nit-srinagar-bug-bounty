@@ -6,6 +6,10 @@
   color-scheme: dark;
 }
 
+html {
+  scroll-padding-top: 110px;
+}
+
 /* Custom Scrollbar in BIS Blue */
 ::-webkit-scrollbar {
   width: 8px;
@@ -19,6 +23,17 @@
 }
 ::-webkit-scrollbar-thumb:hover {
   background: #0080FF;
+}
+
+/* Utility to hide scrollbars while maintaining scroll functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 /* BIS Blue Ambient Circuit Background */
