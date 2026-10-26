@@ -7,12 +7,11 @@ import {
   MapPin, 
   Users, 
   AlertCircle,
-  Mail,
   Send,
   FileText
 } from "lucide-react";
 
-export default function PosterHero({ onOpenEmailModal, onScrollToSection }) {
+export default function PosterHero({ onScrollToSection }) {
   // Live Countdown to 28 October 2026 5:00 PM IST
   const [timeLeft, setTimeLeft] = useState({
     days: 0,
@@ -71,16 +70,9 @@ export default function PosterHero({ onOpenEmailModal, onScrollToSection }) {
             </div>
 
             <div className="flex items-center gap-3 shrink-0">
-              <span className="text-slate-400 font-medium hidden lg:inline">
+              <span className="text-slate-400 font-medium hidden sm:inline">
                 Bureau of Indian Standards × NIT Srinagar
               </span>
-              <button
-                onClick={onOpenEmailModal}
-                className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-950/80 border border-blue-700/60 text-[#00A3FF] hover:bg-[#0080FF] hover:text-white transition-all text-xs font-semibold cursor-pointer shadow-sm shrink-0"
-              >
-                <Mail className="w-3.5 h-3.5" />
-                <span>Email Announcement</span>
-              </button>
             </div>
           </div>
         </div>

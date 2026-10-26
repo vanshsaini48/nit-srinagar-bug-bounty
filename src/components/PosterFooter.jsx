@@ -1,8 +1,8 @@
 import React from "react";
 import { LOGOS, EVENT_CONFIG } from "../content";
-import { Mail, ExternalLink, Shield } from "lucide-react";
+import { ExternalLink } from "lucide-react";
 
-export default function PosterFooter({ onOpenEmailModal }) {
+export default function PosterFooter() {
   return (
     <footer className="bg-black border-t-2 border-blue-900/40 pt-16 pb-12 relative overflow-hidden">
       {/* Background glow */}
@@ -105,14 +105,6 @@ export default function PosterFooter({ onOpenEmailModal }) {
                   <span>Official Rules Drive (PDF)</span>
                   <ExternalLink className="w-3 h-3 text-slate-500" />
                 </a>
-              </li>
-              <li>
-                <button
-                  onClick={onOpenEmailModal}
-                  className="hover:text-[#00A3FF] transition-colors flex items-center gap-1.5 cursor-pointer text-left"
-                >
-                  <span>Poster Email Announcement Hub</span>
-                </button>
               </li>
             </ul>
           </div>
