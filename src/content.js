@@ -161,7 +161,7 @@ export const SCOPE_INVENTORY = {
     },
     {
       id: "gaasherp",
-      name: "GaaSherp ERP Portal",
+      name: "Gaash ERP Portal",
       url: "https://gaasherp.nitsri.ac.in",
       domain: "gaasherp.nitsri.ac.in",
       category: "Enterprise Resource Planning",

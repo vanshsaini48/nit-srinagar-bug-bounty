@@ -35,7 +35,7 @@ Only security testing on the following **7 explicitly authorized assets** is per
 
 1. `https://nitsri.asia/` — NIT Srinagar Website
 2. `http://172.17.27.8:8080/partav/` — Partav Portal
-3. `https://gaasherp.nitsri.ac.in` — GaaSherp ERP
+3. `https://gaasherp.nitsri.ac.in` — Gaash ERP Portal
 4. `https://hostels.nitsri.ac.in/` — Hostel Management Portal
 5. `https://life.nitsri.ac.in/` — Life Portal
 6. `https://hpc.nitsri.ac.in/` — HPC Portal
