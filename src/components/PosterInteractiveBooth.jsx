@@ -27,20 +27,20 @@ export default function PosterInteractiveBooth() {
             SECURE STANDARDS. SAFER INDIA.
           </h2>
           <p className="mt-2 text-sm text-slate-300 font-sans leading-relaxed">
-            Cultivating institutional security excellence through the joint leadership of NIT Srinagar and the Bureau of Indian Standards (BIS) Student Chapter.
+            Cultivating institutional security excellence through the joint leadership of NIT Srinagar and the Bureau of Indian Standards (BIS) Student Chapter CSE | IT.
           </p>
         </div>
 
         {/* Professional 2-Column Showcase */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center max-w-5xl mx-auto p-6 sm:p-8 rounded-2xl bg-black border border-blue-900/50 shadow-2xl">
           
-          {/* Left Column: BIS Student Chapter Mission */}
+          {/* Left Column: BIS Student Chapter CSE | IT Mission */}
           <div className="lg:col-span-7 space-y-4">
             <h3 className="font-poster text-xl font-bold text-white uppercase tracking-wider">
-              About the BIS Student Chapter Initiative
+              About the BIS Student Chapter CSE | IT Initiative
             </h3>
             <p className="text-xs sm:text-sm text-slate-300 font-sans leading-relaxed">
-              The Bureau of Indian Standards (BIS) Student Chapter at NIT Srinagar bridges the gap between academic technical talent and standardized national cybersecurity defenses. Through structured vulnerability disclosure, students engage in hands-on audit methodologies while strictly observing legal and ethical boundaries.
+              The Bureau of Indian Standards (BIS) Student Chapter CSE | IT at NIT Srinagar bridges the gap between academic technical talent and standardized national cybersecurity defenses. Through structured vulnerability disclosure, students engage in hands-on audit methodologies while strictly observing legal and ethical boundaries.
             </p>
 
             <div className="pt-2 space-y-2 text-xs font-sans text-slate-300">

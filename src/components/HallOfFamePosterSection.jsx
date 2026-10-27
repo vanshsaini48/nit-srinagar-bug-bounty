@@ -59,10 +59,7 @@ export default function HallOfFamePosterSection() {
                 className="p-6 rounded-2xl bg-[#060D1E] border border-blue-900/60 hover:border-[#0080FF] transition-all flex flex-col justify-between shadow-xl"
               >
                 <div>
-                  <div className="flex items-center justify-between mb-3">
-                    <span className="text-xs font-bold text-[#00A3FF] uppercase">
-                      LEVEL 0{idx + 1}
-                    </span>
+                  <div className="flex items-center justify-end mb-3">
                     <span className="p-1.5 rounded-lg bg-black border border-slate-800">
                       {idx === 0 ? (
                         <Crown className="w-5 h-5 text-[#FFB800]" />

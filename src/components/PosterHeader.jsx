@@ -49,7 +49,7 @@ export default function PosterHeader({ onScrollToSection }) {
                 Bureau of Indian Standards
               </div>
               <div className="text-[10px] md:text-xs xl:text-sm text-slate-400 font-sans mt-0.5 hidden sm:block">
-                National Standards Body of India
+                BIS Student Chapter CSE | IT
               </div>
             </div>
             <div className="p-1 sm:p-1.5 md:p-2 lg:p-2.5 rounded-xl sm:rounded-2xl bg-white border border-blue-400/80 sm:border-2 sm:border-blue-400/90 shadow-[0_0_15px_rgba(0,128,255,0.25)] sm:shadow-[0_0_25px_rgba(0,128,255,0.35)] flex items-center justify-center h-12 w-16 sm:h-16 sm:w-20 md:h-20 md:w-28 lg:h-24 lg:w-32 xl:h-32 xl:w-44 2xl:h-36 2xl:w-48 shrink-0 hover:scale-105 transition-transform duration-200 overflow-hidden">
@@ -66,7 +66,7 @@ export default function PosterHeader({ onScrollToSection }) {
         {/* CENTER TITLE: Balanced and legible across all viewports */}
         <div className="mt-1 sm:mt-2 lg:mt-2.5 text-center max-w-4xl mx-auto px-1 sm:px-2">
           <div className="text-[8.5px] sm:text-[10px] md:text-xs xl:text-sm font-bold tracking-wider text-slate-300 uppercase leading-tight">
-            BUREAU OF INDIAN STANDARDS (BIS) &bull; BIS STUDENT CHAPTER
+            BUREAU OF INDIAN STANDARDS (BIS) &bull; BIS STUDENT CHAPTER CSE | IT
           </div>
           <div className="font-poster text-[11px] sm:text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl font-black text-white tracking-wide uppercase mt-0.5 leading-snug">
             <span className="text-[#00A3FF]">NIT SRINAGAR</span> CYBER SECURITY BUG HUNT 2026

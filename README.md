@@ -1,6 +1,6 @@
 # NIT Srinagar Cyber Security Bug Hunt 2026 🐞🔐
 
-Official website and portal for **NIT Srinagar Cyber Security Bug Hunt 2026**, organized by **National Institute of Technology Srinagar (NIT Srinagar)** in collaboration with **Bureau of Indian Standards (BIS) Student Chapter**.
+Official website and portal for **NIT Srinagar Cyber Security Bug Hunt 2026**, organized by **National Institute of Technology Srinagar (NIT Srinagar)** in collaboration with **Bureau of Indian Standards (BIS) Student Chapter CSE | IT**.
 
 > **"Find the Flaw. Secure the Future."**
 

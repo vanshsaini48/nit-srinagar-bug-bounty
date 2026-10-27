@@ -90,7 +90,7 @@ export default function PosterHero({ onScrollToSection }) {
             FIND THE FLAW. SECURE THE FUTURE.
           </p>
           <p className="text-sm text-slate-300 mt-2 max-w-2xl mx-auto font-sans leading-relaxed">
-            Authorized Cybersecurity Research Initiative organized by NIT Srinagar in collaboration with Bureau of Indian Standards (BIS) Student Chapter.
+            Authorized Cybersecurity Research Initiative organized by NIT Srinagar in collaboration with Bureau of Indian Standards (BIS) Student Chapter CSE | IT.
           </p>
         </div>
 

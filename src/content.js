@@ -4,7 +4,7 @@ export const EVENT_CONFIG = {
   TITLE: "NIT Srinagar Cyber Security Bug Hunt 2026",
   TAGLINE: "Find the Flaw. Secure the Future.",
   ORGANIZER: "National Institute of Technology Srinagar",
-  PARTNER: "Bureau of Indian Standards (BIS) — BIS Student Chapter",
+  PARTNER: "Bureau of Indian Standards (BIS) — BIS Student Chapter CSE | IT",
   
   // Registration and timeline details
   REGISTRATION_OPENS: "26 October 2026",

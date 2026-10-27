@@ -56,7 +56,7 @@ export default function PosterFooter() {
                 Bureau of Indian Standards
               </span>
               <span className="text-xs text-slate-400 font-sans">
-                BIS Student Chapter • National Standards Body
+                BIS Student Chapter CSE | IT • National Standards Body
               </span>
             </div>
           </div>
@@ -130,7 +130,7 @@ export default function PosterFooter() {
         {/* Bottom copyright & poster tagline */}
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-sans text-slate-500">
           <div>
-            &copy; 2026 National Institute of Technology Srinagar &times; BIS Student Chapter. All rights reserved.
+            &copy; 2026 National Institute of Technology Srinagar &times; BIS Student Chapter CSE | IT. All rights reserved.
           </div>
           <div className="text-slate-400 font-poster uppercase tracking-wider">
             FIND THE FLAW. SECURE THE FUTURE.
